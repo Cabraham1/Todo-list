@@ -19,12 +19,12 @@
   box-shadow: 1px 3px 20px -8px #000;
 }
 
-.to-do-container>* {
+.to-do-container > * {
   border-bottom: 1px solid rgb(185, 185, 185);
   padding: 0.7rem;
 }
 
-.to-do-container>li {
+.to-do-container > li {
   display: flex;
 }
 
@@ -45,7 +45,7 @@
   padding: 0;
 }
 
-.form>* {
+.form > * {
   border-bottom: 1px solid rgb(185, 185, 185);
   width: 100%;
 }
@@ -86,6 +86,7 @@
   background-color: blueviolet;
   border-color: #000;
 }
+
 .list-item {
   display: flex;
   justify-content: space-between;

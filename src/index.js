@@ -19,7 +19,7 @@ const toDoArray = [
     toDo: 'Update social media',
     status: 'false',
     index: 3,
-  }
+  },
 ];
 
 const addStaticTodo = () => {
