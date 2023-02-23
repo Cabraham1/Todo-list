@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Click to see the live demo]( https://lizdev-05.github.io/To-do-list/)
+[Click to see the live demo]( https://cabraham1.github.io/Todo-list/)
 
 ## Getting Started
 
