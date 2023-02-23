@@ -132,6 +132,7 @@
   background-color: #efefef;
   padding: 10px;
   width: 100%;
+  cursor: pointer;
 }
 
 .clear-button {
@@ -145,18 +146,6 @@
 .clear-button:hover {
   color: #000;
   text-decoration: underline;
-}
-
-.todo {
-  display: flex;
-  justify-content: space-between;
-  margin-right: 1rem;
-}
-
-.todo-content {
-  display: flex;
-  gap: 1rem;
-  margin-left: 1rem;
 }
 
 @media only screen and (max-width: 768px) {
