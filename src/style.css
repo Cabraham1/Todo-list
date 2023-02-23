@@ -6,6 +6,7 @@
   font-family: 'Lato', sans-serif;
 }
 
+
 .to-do-container {
   background-color: #fff;
   display: flex;
@@ -19,12 +20,12 @@
   box-shadow: 1px 3px 20px -8px #000;
 }
 
-.to-do-container > * {
+.to-do-container>* {
   border-bottom: 1px solid rgb(185, 185, 185);
   padding: 0.7rem;
 }
 
-.to-do-container > li {
+.to-do-container>li {
   display: flex;
 }
 
@@ -45,7 +46,7 @@
   padding: 0;
 }
 
-.form > * {
+.form>* {
   border-bottom: 1px solid rgb(185, 185, 185);
   width: 100%;
 }
@@ -145,18 +146,6 @@
 .clear-button:hover {
   color: #000;
   text-decoration: underline;
-}
-
-.todo {
-  display: flex;
-  justify-content: space-between;
-  margin-right: 1rem;
-}
-
-.todo-content {
-  display: flex;
-  gap: 1rem;
-  margin-left: 1rem;
 }
 
 @media only screen and (max-width: 768px) {
