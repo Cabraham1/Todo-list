@@ -39,6 +39,7 @@
 - HTML5, Javascript
 - CSS3
 - Linters
+- ES6
 - Webpack
 - Jest
 
@@ -102,6 +103,11 @@ For tracking linters errors locally, you need to follow these steps:
 
 - GitHub: [@githubhandle](https://github.com/cabraham1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abrahamchristopher)
+
+👤 **Kajal Pramanik**
+
+- GitHub: [@githubhandle](https://github.com/Kajal19-del)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kajal-pramanik-234a93173/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
