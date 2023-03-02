@@ -1,4 +1,5 @@
 import { updateStorage } from '../crud-methods.js';
+// eslint-disable-next-line import/named
 import { clearAll } from '../clear.js';
 
 describe('set item to local storage and clear all items', () => {
