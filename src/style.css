@@ -6,6 +6,11 @@
   font-family: 'Lato', sans-serif;
 }
 
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .to-do-container {
   background-color: #fff;
   display: flex;
@@ -63,8 +68,13 @@
   width: 100%;
 }
 
+.add-button {
+width: 1.5rem;
+margin-right: -0.2rem;
+}
+
 .fa-arrow-turn-down {
-  transform: scaleX(1) rotate(90deg);
+  transform: scaleX(1) rotate(90deg);  
 }
 
 .checkbox {
