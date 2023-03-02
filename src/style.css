@@ -57,10 +57,10 @@
 }
 
 .text-input {
+  width: 100%;
   border: none;
   font-style: italic;
   outline: none;
-  width: 100%;
 }
 
 .fa-arrow-turn-down {
