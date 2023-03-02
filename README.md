@@ -55,8 +55,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 ### Prerequisites
 - Have a good knowledge on how to parse UI designs
 - Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
@@ -140,7 +138,6 @@ Feel free to check the [issues page](https://github.com/Cabraham1/Todo-list/issu
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 - Microverse
 - Coding Partners
