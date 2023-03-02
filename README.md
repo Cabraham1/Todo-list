@@ -55,8 +55,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 ### Prerequisites
 - Have a good knowledge on how to parse UI designs
 - Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
@@ -103,6 +101,11 @@ For tracking linters errors locally, you need to follow these steps:
 - GitHub: [@githubhandle](https://github.com/cabraham1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abrahamchristopher)
 
+👤 **Kajal Pramanik**
+
+- GitHub: [@githubhandle](https://github.com/Kajal19-del)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kajal-pramanik-234a93173/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +138,6 @@ Feel free to check the [issues page](https://github.com/Cabraham1/Todo-list/issu
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 - Microverse
 - Coding Partners
