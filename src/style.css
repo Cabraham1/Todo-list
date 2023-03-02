@@ -6,6 +6,12 @@
   font-family: 'Lato', sans-serif;
 }
 
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .to-do-container {
   background-color: #fff;
   display: flex;
@@ -61,6 +67,10 @@
   font-style: italic;
   outline: none;
   width: 100%;
+}
+
+.add-button {
+  width: 1.2rem;
 }
 
 .fa-arrow-turn-down {
