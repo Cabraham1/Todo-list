@@ -1,5 +1,4 @@
 import './style.css';
-// eslint-disable-next-line import/no-unresolved
 import { addTask } from './crud-methods.js';
 import clearAll from './clear.js';
 

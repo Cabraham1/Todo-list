@@ -1,7 +1,7 @@
 /* eslint-disable */
 import setStorage from "./storage.js";
 
-export { deleteTask, updateStorage, tasks, addTask, editTask };
+export { deleteTask, updateStorage, tasks, addTask };
 
 const toDoList = document.getElementById("to-dos");
 
@@ -155,4 +155,3 @@ const updateStorage = () => {
   }
   setStorage(localData);
 };
-
