@@ -155,4 +155,3 @@ const updateStorage = () => {
   }
   setStorage(localData);
 };
-
