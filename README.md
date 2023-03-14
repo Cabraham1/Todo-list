@@ -34,6 +34,8 @@
 
 - "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
+[Screenshot](assets/To-Do%20App%20and%205%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%203_14_2023%205_37_33%20PM.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML5, Javascript
